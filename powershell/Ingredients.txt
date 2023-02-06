@@ -1,0 +1,12 @@
+# Ingredients
+
+-- https://www.youtube.com/watch?v=5-aK2_WwrmM&t=19s
+-- https://github.com/craftzdog/dotfiles-public/blob/master/.config/powershell/user_profile.ps1
+
+* Scoop - A command-line installer
+* Git for Windows
+* Oh My Posh - Prompt theme engine
+* Terminal Icons - Folder and file icons
+* PSReadLine - Cmdlets for customizing the editing environment, used for autocompletion
+* z - Directory jumper
+* PSFzf - Fuzzy finder
